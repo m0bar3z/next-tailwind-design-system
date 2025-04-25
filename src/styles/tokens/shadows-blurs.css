@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --shadow-3xl-testst: 0 35px 35px rgba(0, 0, 0, 0.25);
+  --shadow-4xl: 0 35px 35px rgba(0, 0, 0, 0.25);
+}
+
+@utility ds-shadow-xs {
+  @apply shadow-[0_35px_35px_rgba(0,0,0,0.25)];
+}

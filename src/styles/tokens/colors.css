@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gray-*: initial;
+
+  --ds-color-gray-25: #fdfdfd;
+  --ds-color-gray-50: #fafafa;
+  --ds-color-gray-100: #f5f5f5;
+  --ds-color-gray-200: #e9eaeb;
+  --ds-color-gray-300: #d5d7da;
+  --ds-color-gray-400: #a4a7ae;
+  --ds-color-gray-500: #717680;
+  --ds-color-gray-600: #535862;
+  --ds-color-gray-700: #414651;
+  --ds-color-gray-800: #252b37;
+  --ds-color-gray-900: #101828;
+
+  --ds-color-brand-25: #fcfaff;
+  --ds-color-brand-50: #f9f5ff;
+  --ds-color-brand-100: #f4ebff;
+  --ds-color-brand-200: #e9d7fe;
+  --ds-color-brand-300: #d6bbfb;
+  --ds-color-brand-400: #b692f6;
+  --ds-color-brand-500: #9e77ed;
+  --ds-color-brand-600: #7f56d9;
+  --ds-color-brand-700: #6941c6;
+  --ds-color-brand-800: #53389e;
+  --ds-color-brand-900: #42307d;
+
+  --ds-color-error-25: #fffbfa;
+  --ds-color-error-50: #fef3f2;
+  --ds-color-error-100: #fee4e2;
+  --ds-color-error-200: #fecdca;
+  --ds-color-error-300: #fda29b;
+  --ds-color-error-400: #f97066;
+  --ds-color-error-500: #f04438;
+  --ds-color-error-600: #d92d20;
+  --ds-color-error-700: #b42318;
+  --ds-color-error-800: #912018;
+  --ds-color-error-900: #7a271a;
+
+  --ds-color-warning-25: #fffcf5;
+  --ds-color-warning-50: #fffaeb;
+  --ds-color-warning-100: #fef0c7;
+  --ds-color-warning-200: #fedf89;
+  --ds-color-warning-300: #fec84b;
+  --ds-color-warning-400: #fdb022;
+  --ds-color-warning-500: #f79009;
+  --ds-color-warning-600: #dc6803;
+  --ds-color-warning-700: #b54708;
+  --ds-color-warning-800: #93370d;
+  --ds-color-warning-900: #7a2e0e;
+
+  --ds-color-success-25: #f6fef9;
+  --ds-color-success-50: #ecfdf3;
+  --ds-color-success-100: #d1fadf;
+  --ds-color-success-200: #a6f4c5;
+  --ds-color-success-300: #6ce9a6;
+  --ds-color-success-400: #32d583;
+  --ds-color-success-500: #12b76a;
+  --ds-color-success-600: #039855;
+  --ds-color-success-700: #027a48;
+  --ds-color-success-800: #05603a;
+  --ds-color-success-900: #054f31;
+
+  --ds-color-secondary-blue-dark-25: #fcfcfd;
+}

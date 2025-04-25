@@ -1,0 +1,115 @@
+@import "tailwindcss";
+
+/********/
+/** h1 **/
+/********/
+@utility ds-text-h1-bold {
+  @apply text-7xl leading-[90px] tracking-[-1.44px] font-bold;
+}
+
+@utility ds-text-h1-semibold {
+  @apply text-7xl leading-[90px] tracking-[-1.44px] font-semibold;
+}
+
+@utility ds-text-h1-medium {
+  @apply text-7xl leading-[90px] tracking-[-1.44px] font-medium;
+}
+
+@utility ds-text-h1-normal {
+  @apply text-7xl leading-[90px] tracking-[-1.44px] font-normal;
+}
+
+/********/
+/** h2 **/
+/********/
+@utility ds-text-h2-bold {
+  @apply text-6xl leading-[72px] tracking-[-1.2px] font-bold;
+}
+
+@utility ds-text-h2-semibold {
+  @apply text-6xl leading-[72px] tracking-[-1.2px] font-semibold;
+}
+
+@utility ds-text-h2-medium {
+  @apply text-6xl leading-[72px] tracking-[-1.2px] font-medium;
+}
+
+@utility ds-text-h2-normal {
+  @apply text-6xl leading-[72px] tracking-[-1.2px] font-normal;
+}
+
+/********/
+/** h3 **/
+/********/
+@utility ds-text-h3-bold {
+  @apply text-5xl leading-[60px] tracking-[-0.96px] font-bold;
+}
+
+@utility ds-text-h3-semibold {
+  @apply text-5xl leading-[60px] tracking-[-0.96px] font-semibold;
+}
+
+@utility ds-text-h3-medium {
+  @apply text-5xl leading-[60px] tracking-[-0.96px] font-medium;
+}
+
+@utility ds-text-h3-normal {
+  @apply text-5xl leading-[60px] tracking-[-0.96px] font-normal;
+}
+
+/********/
+/** h4 **/
+/********/
+@utility ds-text-h4-bold {
+  @apply text-4xl leading-[44px] tracking-[-0.72px] font-bold;
+}
+
+@utility ds-text-h4-semibold {
+  @apply text-4xl leading-[44px] tracking-[-0.72px] font-semibold;
+}
+
+@utility ds-text-h4-medium {
+  @apply text-4xl leading-[44px] tracking-[-0.72px] font-medium;
+}
+
+@utility ds-text-h4-normal {
+  @apply text-4xl leading-[44px] tracking-[-0.72px] font-normal;
+}
+
+/********/
+/** h5 **/
+/********/
+@utility ds-text-h5-bold {
+  @apply text-3xl leading-[38px] font-bold;
+}
+
+@utility ds-text-h5-semibold {
+  @apply text-3xl leading-[38px] font-semibold;
+}
+
+@utility ds-text-h5-medium {
+  @apply text-3xl leading-[38px] font-medium;
+}
+
+@utility ds-text-h5-normal {
+  @apply text-3xl leading-[38px] font-normal;
+}
+
+/********/
+/** h6 **/
+/********/
+@utility ds-text-h6-bold {
+  @apply text-2xl leading-[32px] font-bold;
+}
+
+@utility ds-text-h6-semibold {
+  @apply text-2xl leading-[32px] font-semibold;
+}
+
+@utility ds-text-h6-medium {
+  @apply text-2xl leading-[32px] font-medium;
+}
+
+@utility ds-text-h6-normal {
+  @apply text-2xl leading-[32px] font-normal;
+}
